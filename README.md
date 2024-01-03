@@ -1,3 +1,6 @@
+# Git Flight Rules
+
+![Static Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 1. **[fix]:** Indicates that the commit is fixing a bug or addressing an issue.
    - Example: `[fix] Resolve issue with user authentication`
